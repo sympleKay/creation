@@ -1,0 +1,57 @@
+.navHover {
+    font-size: 1.5rem;
+}
+
+.navHover:hover {
+    color: #0000ff!important;
+    font-weight: bolder;
+}
+
+.navHover:active {
+    color: #0000ff!important;
+    font-weight: bolder;
+}
+
+.brandName {
+    font-size: 35px;
+}
+.myImage {
+    height: 30vw!important;
+}
+
+.arrowMargin {
+    margin-top: -40px!important;
+    margin-left: 25%!important;
+}
+.sectionMargin {
+    margin-top: 20px!important;
+}
+
+.foot {
+    height: 50px!important;
+    width: 100%!important;
+    font-size: 2rem;
+    margin-top: 25px;
+}
+.currentNav {
+    color: #ffffff;
+    background-color: #8490ff;
+    height: 130px!important;
+}
+.innerPage:hover{
+    color: #87cefa!important;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.marginC {
+    margin-top: 18px!important;
+}
+
+.pCenter {
+    width: 350px;
+}
+
+.myBtn:hover {
+    background-color: transparent;
+}
