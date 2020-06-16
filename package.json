@@ -1,0 +1,15 @@
+{
+  "name": "creation",
+  "version": "1.0.0",
+  "description": "Creation Static files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Oluwakayode",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
